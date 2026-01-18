@@ -6,6 +6,7 @@ interface User {
   id: number;
   name: string;
   email: string;
+  username: string;
   role: 'admin' | 'umum' | string;
   initials: string;
   is_active: boolean;
