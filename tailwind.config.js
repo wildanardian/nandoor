@@ -19,7 +19,8 @@ export default {
         danger: '#A72703',
         'info-tandur': '#1055C9',
         'dark-tandur': '#061E29',
-        'white-tandur': '#F5F2F2',
+        // 'white-tandur': '#F5F2F2',
+        'white-tandur': '#fffafa',
       },
       fontFamily: {
         sans: ['Figtree', ...defaultTheme.fontFamily.sans],
